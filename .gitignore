@@ -1,0 +1,7 @@
+__pycache__
+#Pythonのキャッシュや一時ファイル
+*.py[cod]
+
+.env
+*.env
+
